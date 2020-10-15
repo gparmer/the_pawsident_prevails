@@ -41,7 +41,6 @@ forkjoin(int nfork, fork_fn_t fn, void *context, size_t data_sz)
 	int i;
 	size_t sz = (data_sz / nfork);
 	struct fork_metadata *forks;
-	;
 	forks = malloc(nfork * sizeof(struct fork_metadata));
 	assert(forks);
 

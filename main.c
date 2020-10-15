@@ -182,7 +182,7 @@ main(int argc, char *argv[])
 	if (mr) use_mapreduce(parallelism, input, input_sz);
 	if (fj) use_forkjoin(parallelism, input, input_sz);
 
-	printf("🐶\n");
+	printf("🐶 endorsed this message\n");
 	free(input);
 
 	return 0;

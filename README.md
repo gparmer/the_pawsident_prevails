@@ -65,4 +65,7 @@ Penny promises bringing parallel programming to all!
 Unfortunately, she doesn't provide abstractions that everyone can use for *every problem*.
 But she does bring abstractions that everyone can understand, and can use without the pains of history -- locks, deadlock, and lock-free programming.
 
+Penny is a nuanced, complex lady.
+She understands that everything is a trade-off, just like you.
 Higher-level primitives for parallel programming exist, but they are all limited in their programming model in some way.
+What you use (coarse grained locks, fine-grained locks, read-write locks, monitors, lock-free algorithms, or high-level parallelism abstractions such as forkjoin or mapreduce) really comes down the data-structures you're using, your performance targets, and your workload (how the data-structures are accessed).
