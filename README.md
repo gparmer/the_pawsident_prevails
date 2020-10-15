@@ -10,7 +10,7 @@ There is hope!
 The aristocracy of fine-grained and read-write locks are ceding power to a democratically elected representative!
 Among those candidates are the [exotic](https://en.wikipedia.org/wiki/Joe_Exotic) -- peddling rare animal and tiger zoos that have free publicity from Netflix, and professional fake tanners that distinguish themselves with an orange glow and a dislike of those that are not orange, and most importantly, a most pawticularly adorable candidate.
 
-!(penny_for_pawsident.jpg)[Penny for pawsident!]
+![Penny for pawsident!](penny_for_pawsident.jpg)
 
 ## Penny's Pawtform
 
